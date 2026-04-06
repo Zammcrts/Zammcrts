@@ -14,7 +14,7 @@
 
 *`@Zammcrts · im a namespace`*
 
-ing. sistemas computacionales · training models to hear what humans can't · loving pous
+ing. sistemas computacionales · loving pous
 
 [![ver perfil completo](https://img.shields.io/badge/᛫%20ver%20perfil%20completo%20᛫-1a1430?style=for-the-badge&logoColor=d0c0f0&labelColor=3a3060&color=1a1430)](https://Zammcrts.github.io/Zammcrts)
 
