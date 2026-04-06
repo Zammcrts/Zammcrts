@@ -14,7 +14,7 @@
 
 *`@Zammcrts · im a namespace`*
 
-ing. sistemas computacionales · loving pous
+ing. sistemas computacionales · training models to hear what humans can't · loving pous
 
 [![ver perfil completo](https://img.shields.io/badge/᛫%20ver%20perfil%20completo%20᛫-1a1430?style=for-the-badge&logoColor=d0c0f0&labelColor=3a3060&color=1a1430)](https://Zammcrts.github.io/Zammcrts)
 
@@ -52,40 +52,40 @@ ing. sistemas computacionales · loving pous
 
 **languages**
 
-![Python](https://img.shields.io/badge/Python-0e0c14?style=for-the-badge&logo=python&logoColor=b8a8e0)
-![C](https://img.shields.io/badge/C-0e0c14?style=for-the-badge&logo=c&logoColor=b8a8e0)
-![C++](https://img.shields.io/badge/C++-0e0c14?style=for-the-badge&logo=cplusplus&logoColor=b8a8e0)
-![SQL](https://img.shields.io/badge/SQL-0e0c14?style=for-the-badge&logo=postgresql&logoColor=b8a8e0)
-![Java](https://img.shields.io/badge/Java-0e0c14?style=for-the-badge&logo=openjdk&logoColor=b8a8e0)
-![JavaScript](https://img.shields.io/badge/JavaScript-0e0c14?style=for-the-badge&logo=javascript&logoColor=b8a8e0)
+![Python](https://img.shields.io/badge/Python-1e1a2e?style=for-the-badge&logo=python&logoColor=b8a8e0)
+![C](https://img.shields.io/badge/C-1e1a2e?style=for-the-badge&logo=c&logoColor=b8a8e0)
+![C++](https://img.shields.io/badge/C++-1e1a2e?style=for-the-badge&logo=cplusplus&logoColor=b8a8e0)
+![SQL](https://img.shields.io/badge/SQL-1e1a2e?style=for-the-badge&logo=postgresql&logoColor=b8a8e0)
+![Java](https://img.shields.io/badge/Java-1e1a2e?style=for-the-badge&logo=openjdk&logoColor=b8a8e0)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1a2e?style=for-the-badge&logo=javascript&logoColor=b8a8e0)
 
 **ai · ml · audio**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0e0c14?style=for-the-badge&logo=tensorflow&logoColor=b8a8e0)
-![PyTorch](https://img.shields.io/badge/PyTorch-140e22?style=for-the-badge&logo=pytorch&logoColor=d89098)
-![Librosa](https://img.shields.io/badge/Librosa-0e0c14?style=for-the-badge&logo=python&logoColor=b8a8e0)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-0e0c14?style=for-the-badge&logoColor=b8a8e0)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0e0c14?style=for-the-badge&logo=scikitlearn&logoColor=b8a8e0)
-![Pandas](https://img.shields.io/badge/Pandas-0e0c14?style=for-the-badge&logo=pandas&logoColor=b8a8e0)
-![Jupyter](https://img.shields.io/badge/Jupyter-0e0c14?style=for-the-badge&logo=jupyter&logoColor=80b0d0)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1a2e?style=for-the-badge&logo=tensorflow&logoColor=b8a8e0)
+![PyTorch](https://img.shields.io/badge/PyTorch-2a1520?style=for-the-badge&logo=pytorch&logoColor=d89098)
+![Librosa](https://img.shields.io/badge/Librosa-1e1a2e?style=for-the-badge&logo=python&logoColor=b8a8e0)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-1e1a2e?style=for-the-badge&logoColor=b8a8e0)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1a2e?style=for-the-badge&logo=scikitlearn&logoColor=b8a8e0)
+![Pandas](https://img.shields.io/badge/Pandas-1e1a2e?style=for-the-badge&logo=pandas&logoColor=b8a8e0)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a2030?style=for-the-badge&logo=jupyter&logoColor=80b0d0)
 
 **databases · backend**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0e0c14?style=for-the-badge&logo=postgresql&logoColor=b8a8e0)
-![MySQL](https://img.shields.io/badge/MySQL-0e0c14?style=for-the-badge&logo=mysql&logoColor=b8a8e0)
-![MongoDB](https://img.shields.io/badge/MongoDB-0e0c14?style=for-the-badge&logo=mongodb&logoColor=b8a8e0)
-![FastAPI](https://img.shields.io/badge/FastAPI-0e0c14?style=for-the-badge&logo=fastapi&logoColor=80b0d0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1a2e?style=for-the-badge&logo=postgresql&logoColor=b8a8e0)
+![MySQL](https://img.shields.io/badge/MySQL-1e1a2e?style=for-the-badge&logo=mysql&logoColor=b8a8e0)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e1a2e?style=for-the-badge&logo=mongodb&logoColor=b8a8e0)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a2030?style=for-the-badge&logo=fastapi&logoColor=80b0d0)
 
 **embedded**
 
-![ATmega](https://img.shields.io/badge/ATmega328P-0e0c14?style=for-the-badge&logo=arduino&logoColor=80b0d0)
-![ATtiny](https://img.shields.io/badge/ATtiny85%2F84-0e0c14?style=for-the-badge&logo=arduino&logoColor=80b0d0)
+![ATmega](https://img.shields.io/badge/ATmega328P-1a2030?style=for-the-badge&logo=arduino&logoColor=80b0d0)
+![ATtiny](https://img.shields.io/badge/ATtiny85%2F84-1a2030?style=for-the-badge&logo=arduino&logoColor=80b0d0)
 
 **tools**
 
-![Git](https://img.shields.io/badge/Git-140e22?style=for-the-badge&logo=git&logoColor=d89098)
-![GitHub](https://img.shields.io/badge/GitHub-0e0c14?style=for-the-badge&logo=github&logoColor=b8a8e0)
-![VS Code](https://img.shields.io/badge/VS_Code-0e0c14?style=for-the-badge&logo=visualstudiocode&logoColor=80b0d0)
+![Git](https://img.shields.io/badge/Git-2a1520?style=for-the-badge&logo=git&logoColor=d89098)
+![GitHub](https://img.shields.io/badge/GitHub-1e1a2e?style=for-the-badge&logo=github&logoColor=b8a8e0)
+![VS Code](https://img.shields.io/badge/VS_Code-1a2030?style=for-the-badge&logo=visualstudiocode&logoColor=80b0d0)
 
 </div>
 
